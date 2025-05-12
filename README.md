@@ -1,3 +1,4 @@
+# GeminiCord v5 is in the works! The repository will be updated when the update releases!
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7f14198d-de5f-457a-a445-ce79aa3a80d8" />
 </p>
